@@ -8,6 +8,8 @@ public class Main {
         DataBag<String> miBolsa = new DataBag<>(3); // Creamos una bolsa con capacidad 3
         int opcion = 0;
 
+        //esto es un cambio
+
         do {
             System.out.println("\n--- Menú de Opciones para DataBag ---");
             System.out.println("1. Agregar un elemento");
