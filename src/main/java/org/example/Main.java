@@ -16,6 +16,9 @@ public class Main {
             System.out.println("4. Salir");
             System.out.print("Elige una opción: ");
 
+            //esto es un cambio
+
+
             try {
                 opcion = scanner.nextInt();
                 scanner.nextLine(); // Consumir la nueva línea
